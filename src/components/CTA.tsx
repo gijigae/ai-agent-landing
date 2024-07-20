@@ -9,7 +9,7 @@ export default function CTA() {
             Ready to Transform Your Business?
           </h2>
           <p className="mx-auto max-w-[700px] text-primary-foreground/90 md:text-xl">
-            Get started with AI Agent Co. today and experience the power of AI-driven solutions.
+            Get started with Choimirai Company today and experience the power of AI-driven solutions.
           </p>
           <Button variant="secondary" size="lg">
             Start Your Free Trial
