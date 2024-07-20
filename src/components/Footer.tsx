@@ -5,7 +5,7 @@ export default function Footer() {
           <div className="flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0">
             <div className="text-center md:text-left">
               <p className="text-sm text-gray-500 dark:text-gray-400">
-                © 2023 AI Agent Co. All rights reserved.
+                © 2024 Choimirai Company All rights reserved.
               </p>
             </div>
             <nav className="flex space-x-4">
